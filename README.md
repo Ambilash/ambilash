@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a passionated Android application developer, I consider my self as a self and quick learner. I like to explore new stuffs everyday.
+
 <!--
 **Ambilash/ambilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
